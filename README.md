@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    Sou desenvolvedor front-end hà mais de 6 anos, atualmente estou cursando Ciência da computação na Universidade São Judas Tadeu 👨‍🎓<br/>
+    Sou desenvolvedor front-end hà mais de 6 anos, atualmente estou cursando Ciência da computação na Universidade São Judas Tadeu 👨‍🎓
     gosto muito de aprender novas tecnologias, sempre gostei muito de ajudar outras pessoas com códigos e no seu desenvolvimento profissional.
   </p>
 </div>
