@@ -2,8 +2,7 @@
 
 <div align="center">
   <p>
-Sou desenvolvedor front-end desde 2016 e, ao longo da minha jornada, sempre busquei aprender novas tecnologias e compartilhar conhecimentos com outros profissionais da área. Tenho graduação em Ciência da Computação pela Universidade São Judas Tadeu e sou pós-graduado em Engenharia de Software pelo MBA da Faculdade Impacta. 👨‍🎓
-
+Sou desenvolvedor front-end desde 2016 e, ao longo da minha jornada, sempre busquei aprender novas tecnologias e compartilhar conhecimentos com outros profissionais da área. Tenho graduação em Ciência da Computação pela Universidade São Judas Tadeu e sou pós-graduado em Engenharia de Software pelo MBA da Faculdade Impacta. 👨‍🎓<br/>
 Tenho paixão por criar soluções que aprimoram a experiência do usuário e, além disso, me dedico a apoiar o crescimento profissional de outros desenvolvedores por meio de troca de conhecimentos e colaboração. 🚀</p>
 </div>
 
@@ -21,6 +20,7 @@ Tenho paixão por criar soluções que aprimoram a experiência do usuário e, a
   <img align="center" alt="Uisma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Uisma-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Uisma-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Uisma-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 
 ##
