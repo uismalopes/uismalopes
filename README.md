@@ -1,7 +1,10 @@
 ### Olá, meu nome é Uisma Lopes 👋
 
 <div align="center">
-  <p>Sou desenvolvedor front-end desde 2016 e atualmente estou cursando Ciência da Computação na Universidade São Judas Tadeu. 👨‍🎓 Sempre gostei muito de aprender novas tecnologias e de ajudar outras pessoas com códigos e no seu desenvolvimento profissional na área.</p>
+  <p>
+Sou desenvolvedor front-end desde 2016 e, ao longo da minha jornada, sempre busquei aprender novas tecnologias e compartilhar conhecimentos com outros profissionais da área. Tenho graduação em Ciência da Computação pela Universidade São Judas Tadeu e sou pós-graduado em Engenharia de Software pelo MBA da Faculdade Impacta. 👨‍🎓
+
+Tenho paixão por criar soluções que aprimoram a experiência do usuário e, além disso, me dedico a apoiar o crescimento profissional de outros desenvolvedores por meio de troca de conhecimentos e colaboração. 🚀</p>
 </div>
 
 <div align="center">
